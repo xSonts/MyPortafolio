@@ -142,3 +142,14 @@ li{
 }
 
 
+@media (max-width: 624px) {
+  .Proyectos {
+    display: inline-block;
+
+  }
+  .Proyectos > div {
+    display: inline-block;
+    gap: 20px; 
+  }
+
+}
